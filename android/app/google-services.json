@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "150905737389",
+    "project_id": "quizz-app-flutter-e9d37",
+    "storage_bucket": "quizz-app-flutter-e9d37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150905737389:android:04e4da87ecb00386e03624",
+        "android_client_info": {
+          "package_name": "com.gaeldev.learningapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150905737389-75rucdiiuhl5cf31ik2geqj6k11p29m1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaeldev.learningapp",
+            "certificate_hash": "476461e28023ff06fad4f3d9df8604ad999b9337"
+          }
+        },
+        {
+          "client_id": "150905737389-sbvhvbcmc1uhkjcac8ipn7ev4f8kg9da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsRVdtAc0g90TOPQpxj3V6dFNnYgQVItk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150905737389-sbvhvbcmc1uhkjcac8ipn7ev4f8kg9da.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "150905737389-8lugkhm33ugkkcaqkehktgvm5356n7ea.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gaeldev.learningapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
