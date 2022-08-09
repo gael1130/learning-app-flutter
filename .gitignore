@@ -13,6 +13,15 @@ migrate_working_dir/
 # Assets
 /assets
 
+
+# Android Keys
+android/keys.properties
+
+# Google info
+ios/Runner/GoogleService-Info.plist
+android/app/google-services.json
+ios/firebase_app_id_file.json
+
 # IntelliJ related
 *.iml
 *.ipr
